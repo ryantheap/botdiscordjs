@@ -1,0 +1,12 @@
+{
+  "name": "botdiscordjs",
+  "version": "0.1.0",
+  "description": "Projet bot discordjs",
+  "main": "main.js",
+  "repository": "git@github.com:ryantheap/botdiscordjs.git",
+  "author": "(ryantheap<elie.parthenay@gmail.com>):",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
